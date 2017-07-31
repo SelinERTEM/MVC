@@ -1,0 +1,66 @@
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.UI\bin\HaberSistemi.UI.dll.config
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.UI\bin\HaberSistemi.UI.dll
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.UI\bin\HaberSistemi.UI.pdb
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.UI\bin\System.Web.Helpers.dll
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.UI\bin\System.Web.Mvc.dll
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.UI\bin\System.Web.Razor.dll
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.UI\bin\System.Web.Webpages.Deployment.dll
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.UI\bin\System.Web.Webpages.dll
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.UI\bin\System.Web.Webpages.Razor.dll
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.UI\bin\System.Web.Razor.xml
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.UI\bin\System.Web.Webpages.xml
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.UI\bin\System.Web.Webpages.Deployment.xml
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.UI\bin\System.Web.Webpages.Razor.xml
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.UI\bin\System.Web.Helpers.xml
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.UI\bin\System.Web.Mvc.xml
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.UI\obj\Debug\HaberSistemi.UI.csprojResolveAssemblyReference.cache
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.UI\obj\Debug\HaberSistemi.UI.dll
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.UI\obj\Debug\HaberSistemi.UI.pdb
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.UI\bin\EntityFramework.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.UI\bin\EntityFramework.xml
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.UI\bin\EntityFramework.SqlServer.xml
+D:\Proje\HaberSistemi\HaberSistemi.UI\bin\HaberSistemi.UI.dll.config
+D:\Proje\HaberSistemi\HaberSistemi.UI\bin\HaberSistemi.UI.dll
+D:\Proje\HaberSistemi\HaberSistemi.UI\bin\HaberSistemi.UI.pdb
+D:\Proje\HaberSistemi\HaberSistemi.UI\bin\EntityFramework.dll
+D:\Proje\HaberSistemi\HaberSistemi.UI\bin\EntityFramework.SqlServer.dll
+D:\Proje\HaberSistemi\HaberSistemi.UI\bin\System.Web.Helpers.dll
+D:\Proje\HaberSistemi\HaberSistemi.UI\bin\System.Web.Mvc.dll
+D:\Proje\HaberSistemi\HaberSistemi.UI\bin\System.Web.Razor.dll
+D:\Proje\HaberSistemi\HaberSistemi.UI\bin\System.Web.Webpages.Deployment.dll
+D:\Proje\HaberSistemi\HaberSistemi.UI\bin\System.Web.Webpages.dll
+D:\Proje\HaberSistemi\HaberSistemi.UI\bin\System.Web.Webpages.Razor.dll
+D:\Proje\HaberSistemi\HaberSistemi.UI\bin\EntityFramework.xml
+D:\Proje\HaberSistemi\HaberSistemi.UI\bin\EntityFramework.SqlServer.xml
+D:\Proje\HaberSistemi\HaberSistemi.UI\bin\System.Web.Razor.xml
+D:\Proje\HaberSistemi\HaberSistemi.UI\bin\System.Web.Webpages.xml
+D:\Proje\HaberSistemi\HaberSistemi.UI\bin\System.Web.Webpages.Deployment.xml
+D:\Proje\HaberSistemi\HaberSistemi.UI\bin\System.Web.Webpages.Razor.xml
+D:\Proje\HaberSistemi\HaberSistemi.UI\bin\System.Web.Helpers.xml
+D:\Proje\HaberSistemi\HaberSistemi.UI\bin\System.Web.Mvc.xml
+D:\Proje\HaberSistemi\HaberSistemi.UI\obj\Debug\HaberSistemi.UI.csprojResolveAssemblyReference.cache
+D:\Proje\HaberSistemi\HaberSistemi.UI\obj\Debug\HaberSistemi.UI.dll
+D:\Proje\HaberSistemi\HaberSistemi.UI\obj\Debug\HaberSistemi.UI.pdb
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.UI\bin\HaberSistemi.UI.dll.config
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.UI\bin\HaberSistemi.UI.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.UI\bin\HaberSistemi.UI.pdb
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.UI\bin\EntityFramework.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.UI\bin\System.Web.Helpers.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.UI\bin\System.Web.Mvc.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.UI\bin\System.Web.Razor.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.UI\bin\System.Web.Webpages.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.UI\bin\EntityFramework.xml
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.UI\bin\System.Web.Razor.xml
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.UI\bin\System.Web.Webpages.xml
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.UI\bin\System.Web.Helpers.xml
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.UI\bin\System.Web.Mvc.xml
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.UI\obj\Debug\HaberSistemi.UI.csprojResolveAssemblyReference.cache
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.UI\obj\Debug\HaberSistemi.UI.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.UI\obj\Debug\HaberSistemi.UI.pdb

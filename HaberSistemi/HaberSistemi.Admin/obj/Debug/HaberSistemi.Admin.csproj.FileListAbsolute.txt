@@ -1,0 +1,104 @@
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Admin.dll.config
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Admin.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Admin.pdb
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\System.Web.Helpers.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\System.Web.Mvc.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\System.Web.Razor.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\System.Web.Webpages.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\System.Web.Webpages.Razor.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\System.Web.Razor.xml
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\System.Web.Webpages.xml
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\System.Web.Webpages.Razor.xml
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\System.Web.Helpers.xml
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\System.Web.Mvc.xml
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\obj\Debug\HaberSistemi.Admin.csprojResolveAssemblyReference.cache
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\obj\Debug\HaberSistemi.Admin.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\obj\Debug\HaberSistemi.Admin.pdb
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\EntityFramework.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\EntityFramework.SqlServer.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\EntityFramework.xml
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\EntityFramework.SqlServer.xml
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\Autofac.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\Autofac.Integration.Mvc.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\Autofac.xml
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\Autofac.Integration.Mvc.xml
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Core.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Data.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Core.pdb
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Data.pdb
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Admin.dll.config
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Admin.dll
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Admin.pdb
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\Autofac.dll
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\Autofac.Integration.Mvc.dll
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\EntityFramework.dll
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\EntityFramework.SqlServer.dll
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Core.dll
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Data.dll
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\Microsoft.Web.Infrastructure.dll
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\System.Web.Helpers.dll
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\System.Web.Mvc.dll
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\System.Web.Razor.dll
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\System.Web.WebPages.Deployment.dll
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\System.Web.WebPages.dll
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\System.Web.WebPages.Razor.dll
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Core.pdb
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Data.pdb
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\Autofac.xml
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\Autofac.Integration.Mvc.xml
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\EntityFramework.xml
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\EntityFramework.SqlServer.xml
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\System.Web.Helpers.xml
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\System.Web.Mvc.xml
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\System.Web.Razor.xml
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\System.Web.WebPages.xml
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\System.Web.WebPages.Deployment.xml
+D:\Proje\HaberSistemi\HaberSistemi.Admin\bin\System.Web.WebPages.Razor.xml
+D:\Proje\HaberSistemi\HaberSistemi.Admin\obj\Debug\HaberSistemi.Admin.csprojResolveAssemblyReference.cache
+D:\Proje\HaberSistemi\HaberSistemi.Admin\obj\Debug\HaberSistemi.Admin.dll
+D:\Proje\HaberSistemi\HaberSistemi.Admin\obj\Debug\HaberSistemi.Admin.pdb
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Admin\obj\Debug\HaberSistemi.Admin.csprojResolveAssemblyReference.cache
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Admin.dll.config
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Admin.dll
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Admin.pdb
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Core.dll
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Data.dll
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Core.pdb
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Data.pdb
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Admin\bin\Autofac.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Admin\bin\Autofac.Integration.Mvc.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Admin\bin\EntityFramework.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Admin\bin\EntityFramework.SqlServer.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Admin\bin\PagedList.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Admin\bin\PagedList.Mvc.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Admin\bin\System.Web.Helpers.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Admin\bin\System.Web.Mvc.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Admin\bin\System.Web.Razor.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Admin\bin\System.Web.WebPages.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Admin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Admin\bin\System.Web.WebPages.Razor.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Admin\obj\Debug\HaberSistemi.Admin.dll
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Admin\obj\Debug\HaberSistemi.Admin.pdb
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Admin.dll.config
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Admin.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Admin.pdb
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Core.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Data.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Core.pdb
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Data.pdb
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Admin\obj\Debug\HaberSistemi.Admin.csprojResolveAssemblyReference.cache
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Admin\obj\Debug\HaberSistemi.Admin.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Admin\obj\Debug\HaberSistemi.Admin.pdb
+C:\Users\ismail.coban\Desktop\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Admin.dll.config
+C:\Users\ismail.coban\Desktop\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Admin.dll
+C:\Users\ismail.coban\Desktop\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Admin.pdb
+C:\Users\ismail.coban\Desktop\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Core.dll
+C:\Users\ismail.coban\Desktop\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Data.dll
+C:\Users\ismail.coban\Desktop\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Core.pdb
+C:\Users\ismail.coban\Desktop\HaberSistemi\HaberSistemi.Admin\bin\HaberSistemi.Data.pdb
+C:\Users\ismail.coban\Desktop\HaberSistemi\HaberSistemi.Admin\obj\Debug\HaberSistemi.Admin.csprojResolveAssemblyReference.cache
+C:\Users\ismail.coban\Desktop\HaberSistemi\HaberSistemi.Admin\obj\Debug\HaberSistemi.Admin.dll
+C:\Users\ismail.coban\Desktop\HaberSistemi\HaberSistemi.Admin\obj\Debug\HaberSistemi.Admin.pdb

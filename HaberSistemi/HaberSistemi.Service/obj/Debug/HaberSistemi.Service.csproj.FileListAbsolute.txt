@@ -1,0 +1,96 @@
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\HaberSistemi.Service.dll.config
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\HaberSistemi.Service.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\HaberSistemi.Service.pdb
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\Antlr3.Runtime.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\Newtonsoft.Json.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\System.Net.Http.Formatting.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\System.Web.Helpers.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\System.Web.Http.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\System.Web.Http.WebHost.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\System.Web.Mvc.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\System.Web.Optimization.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\System.Web.Razor.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\System.Web.WebPages.Deployment.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\System.Web.WebPages.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\System.Web.WebPages.Razor.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\WebGrease.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\Newtonsoft.Json.xml
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\System.Net.Http.Formatting.xml
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\System.Web.Helpers.xml
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\System.Web.Http.xml
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\System.Web.Http.WebHost.xml
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\System.Web.Mvc.xml
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\System.Web.Optimization.xml
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\System.Web.Razor.xml
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\System.Web.WebPages.xml
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\System.Web.WebPages.Deployment.xml
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\System.Web.WebPages.Razor.xml
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\bin\Antlr3.Runtime.pdb
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\obj\Debug\HaberSistemi.Service.csprojResolveAssemblyReference.cache
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\obj\Debug\HaberSistemi.Service.dll
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Service\obj\Debug\HaberSistemi.Service.pdb
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\HaberSistemi.Service.dll.config
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\HaberSistemi.Service.dll
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\HaberSistemi.Service.pdb
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\Antlr3.Runtime.dll
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\Newtonsoft.Json.dll
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Net.Http.Formatting.dll
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.Helpers.dll
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.Http.dll
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.Http.WebHost.dll
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.Mvc.dll
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.Optimization.dll
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.Razor.dll
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.WebPages.dll
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.WebPages.Razor.dll
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\WebGrease.dll
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\Newtonsoft.Json.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Net.Http.Formatting.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.Helpers.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.Http.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.Http.WebHost.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.Mvc.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.Optimization.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.Razor.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.WebPages.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.WebPages.Razor.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\bin\Antlr3.Runtime.pdb
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\obj\Debug\HaberSistemi.Service.csprojResolveAssemblyReference.cache
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\obj\Debug\HaberSistemi.Service.dll
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Service\obj\Debug\HaberSistemi.Service.pdb
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\HaberSistemi.Service.dll.config
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\HaberSistemi.Service.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\HaberSistemi.Service.pdb
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\Antlr3.Runtime.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\Newtonsoft.Json.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Net.Http.Formatting.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.Helpers.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.Http.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.Http.WebHost.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.Mvc.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.Optimization.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.Razor.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.WebPages.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.WebPages.Razor.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\WebGrease.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\Newtonsoft.Json.xml
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Net.Http.Formatting.xml
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.Helpers.xml
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.Http.xml
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.Http.WebHost.xml
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.Mvc.xml
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.Optimization.xml
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.Razor.xml
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.WebPages.xml
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\System.Web.WebPages.Razor.xml
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\bin\Antlr3.Runtime.pdb
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\obj\Debug\HaberSistemi.Service.csprojResolveAssemblyReference.cache
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\obj\Debug\HaberSistemi.Service.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Service\obj\Debug\HaberSistemi.Service.pdb

@@ -1,0 +1,67 @@
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.Data\bin\Debug\HaberSistemi.Data.dll.config
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.Data\bin\Debug\HaberSistemi.Data.dll
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.Data\bin\Debug\HaberSistemi.Data.pdb
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.Data\bin\Debug\EntityFramework.dll
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.Data\bin\Debug\EntityFramework.xml
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.dll
+c:\users\24doksan-pc\documents\visual studio 2013\Projects\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.pdb
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.csprojResolveAssemblyReference.cache
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.Migrations.Olustur.resources
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.csproj.GenerateResource.Cache
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.Migrations.Olustur1.resources
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.Migrations.Olustur2.resources
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.Migrations.Olustur3.resources
+C:\Users\24Doksan-PC\Documents\Visual Studio 2013\Projects\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.Migrations.Olustur4.resources
+D:\Proje\HaberSistemi\HaberSistemi.Data\bin\Debug\HaberSistemi.Data.dll.config
+D:\Proje\HaberSistemi\HaberSistemi.Data\bin\Debug\HaberSistemi.Data.dll
+D:\Proje\HaberSistemi\HaberSistemi.Data\bin\Debug\HaberSistemi.Data.pdb
+D:\Proje\HaberSistemi\HaberSistemi.Data\bin\Debug\EntityFramework.dll
+D:\Proje\HaberSistemi\HaberSistemi.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proje\HaberSistemi\HaberSistemi.Data\bin\Debug\EntityFramework.xml
+D:\Proje\HaberSistemi\HaberSistemi.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proje\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.csprojResolveAssemblyReference.cache
+D:\Proje\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.Migrations.Olustur.resources
+D:\Proje\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.Migrations.Olustur1.resources
+D:\Proje\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.Migrations.Olustur2.resources
+D:\Proje\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.Migrations.Olustur3.resources
+D:\Proje\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.Migrations.Olustur4.resources
+D:\Proje\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.csproj.GenerateResource.Cache
+D:\Proje\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.dll
+D:\Proje\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.pdb
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Data\bin\Debug\HaberSistemi.Data.dll.config
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Data\bin\Debug\HaberSistemi.Data.dll
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Data\bin\Debug\HaberSistemi.Data.pdb
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Data\bin\Debug\EntityFramework.dll
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Data\bin\Debug\EntityFramework.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.csprojResolveAssemblyReference.cache
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.dll
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.pdb
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.Migrations.Olustur.resources
+C:\Users\ali\Desktop\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.csproj.GenerateResource.Cache
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Data\bin\Debug\HaberSistemi.Data.dll.config
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Data\bin\Debug\HaberSistemi.Data.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Data\bin\Debug\HaberSistemi.Data.pdb
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Data\bin\Debug\EntityFramework.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Data\bin\Debug\EntityFramework.xml
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.dll
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.pdb
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.Migrations.Ali.resources
+C:\Users\ALIDOGAN\Desktop\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.csproj.GenerateResource.Cache
+C:\Users\ismail.coban\Desktop\HaberSistemi\HaberSistemi.Data\bin\Debug\HaberSistemi.Data.dll.config
+C:\Users\ismail.coban\Desktop\HaberSistemi\HaberSistemi.Data\bin\Debug\HaberSistemi.Data.dll
+C:\Users\ismail.coban\Desktop\HaberSistemi\HaberSistemi.Data\bin\Debug\HaberSistemi.Data.pdb
+C:\Users\ismail.coban\Desktop\HaberSistemi\HaberSistemi.Data\bin\Debug\EntityFramework.dll
+C:\Users\ismail.coban\Desktop\HaberSistemi\HaberSistemi.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ismail.coban\Desktop\HaberSistemi\HaberSistemi.Data\bin\Debug\EntityFramework.xml
+C:\Users\ismail.coban\Desktop\HaberSistemi\HaberSistemi.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ismail.coban\Desktop\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.csprojResolveAssemblyReference.cache
+C:\Users\ismail.coban\Desktop\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.Migrations.Ali.resources
+C:\Users\ismail.coban\Desktop\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.csproj.GenerateResource.Cache
+C:\Users\ismail.coban\Desktop\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.dll
+C:\Users\ismail.coban\Desktop\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.pdb
